@@ -1,0 +1,171 @@
+@media (min-width:320px) and (max-width:768px){
+    .header_wrapp {
+	display: block;
+}
+  .header {
+	padding: 10px 0;
+}  
+    
+    .mean-container .mean-nav {
+	width: auto;
+	position: absolute;
+	left: -78px;
+	right: 0;
+}
+    
+    .mean-container .mean-bar {
+	width: 74%;
+	position: absolute;
+	top: 0;
+	right: 0;
+        background: none;
+}
+   .single_hero h1 {
+	font-size: 45px;
+} 
+   .hero_area .owl-theme .owl-nav {
+	margin-top: 10px;
+	display: none;
+}
+    
+   .services_area.pt-90.pb-90.pt-0 {
+	padding: 35px 0 !important;
+} 
+    
+    .section_title h2 {
+	font-size: 27px;
+}
+    .single_services {
+	margin-bottom: 20px;
+}
+    .portfolio_wrap {
+	display: block !important;
+}
+  .single_portfolio {
+	margin-bottom: 20px;
+}  
+   .single_portfolio img {
+	width: 100%;
+} 
+  .portfolio .section_title a {
+	position: inherit;
+	padding-top: 18px;
+	display: block;
+}  
+    
+  .col-md-12.col-lg-5.m1 {
+	padding-left: 0;
+}  
+    
+  .footer .row {
+	
+	flex-direction: column-reverse;
+}
+  .footer_menu ul {
+	display: block;
+}  
+ .footer_contact {
+	display: block;
+	padding-bottom: 15px;
+} 
+   .footer_menu {
+	padding-bottom: 15px;
+} 
+  .latest_news p {
+	line-height: 23px;
+}  
+  .latest_news h5 {
+	font-size: 15px;
+	font-weight: 500;
+}  
+    
+   .mean-container .mean-nav ul li a.mean-expand {
+	border: 0 !important;
+	background: none;
+} 
+    .down {
+	display: none;
+}
+     
+    
+}
+
+@media (min-width:576px) and (max-width:768px){
+    .portfolio_wrap {
+display: flex !important;
+	margin-top: 0;
+}
+    .portfolio .section_title{
+        margin-bottom: 30px;
+    }
+.portfolio .section_title a {
+	position: absolute;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+@media (min-width:768px) and (max-width:1200px){
+    .single_hero h1 {
+	font-size: 50px;
+}
+  .m1 {
+	margin-top: 40px;
+	padding-left: 0;
+} 
+ .single_services {
+	padding-bottom: 20px;
+}   
+   .footer_menu ul li {
+	margin-right: 20px;
+} 
+  .footer_logo p {
+	font-size: 12px;
+}  
+    .footer_follow a {
+	font-size: 14px;
+}
+.footer_follow span {
+	font-size: 14px;
+}    
+    
+   .footer_socials ul li {
+	font-size: 14px;
+} 
+    
+    .footer_socials ul li a {
+	font-size: 16px;
+}
+    .footer_menu {
+	padding-bottom: 6px;
+}
+    
+    
+}
+
+
+
+
+
+@media (min-width:991px) and (max-width:1200px){
+   .section_title h2 {
+	font-size: 25px;
+} 
+  .latest_news h5 {
+	font-size: 16px;
+}  
+    .m1 {
+	margin-top: 0;
+	padding-left: 0;
+}
+     
+}
