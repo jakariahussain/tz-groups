@@ -274,15 +274,17 @@ a:hover {
 }
 
 .hero_area .owl-prev {
-    position: absolute;
-    left: 0;
-    top: 24px;
-    transform: rotate(-180deg);
+	position: absolute;
+	left: 0;
+	top: 24px;
+	transform: rotate(-180deg);
+	opacity: 0.4 !important;
 }
 
 .hero_area .owl-prev:hover,
 .hero_area .owl-next:hover {
     background: transparent !important;
+    opacity:1 !important;
 
 }
 
@@ -296,6 +298,7 @@ a:hover {
     position: absolute;
     right: 0;
     top: 24px;
+    opacity: 0.4 !important;
 }
 
 .hero_area .owl-dots {
